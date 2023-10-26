@@ -1,0 +1,116 @@
+.aplaguetale.game-info-wrapper .game-info-header {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetalehero.jpg);
+}
+
+.lastofus.game-info-wrapper .game-info-header {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofushero.jpg);
+}
+
+.tombraider.game-info-wrapper .game-info-header {
+  background-image: url(/src/pages/assets/images/tombraider/tombraiderhero.jpg);
+}
+
+.uncharted.game-info-wrapper .game-info-header {
+  background-image: url(/src/pages/assets/images/uncharted/unchartedhero.jpg);
+}
+
+.game-info-images {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aplaguetale.game-info-img-1 {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetale1.jpg);
+}
+.aplaguetale.game-info-img-2 {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetale2.jpg);
+}
+.aplaguetale.game-info-img-3 {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetale3.jpg);
+}
+.aplaguetale.game-info-img-4 {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetale4.jpg);
+}
+
+.lastofus.game-info-img-1 {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofus1.jpg);
+}
+
+.lastofus.game-info-img-2 {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofus2.jpg);
+}
+
+.lastofus.game-info-img-3 {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofus3.jpg);
+}
+
+.lastofus.game-info-img-4 {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofus4.jpg);
+}
+
+.tombraider.game-info-img-1 {
+  background-image: url(/src/pages/assets/images/tombraider/tombraider1.jpg);
+}
+
+.tombraider.game-info-img-2 {
+  background-image: url(/src/pages/assets/images/tombraider/tombraider2.jpg);
+}
+
+.tombraider.game-info-img-3 {
+  background-image: url(/src/pages/assets/images/tombraider/tombraider3.jpg);
+}
+
+.tombraider.game-info-img-4 {
+  background-image: url(/src/pages/assets/images/tombraider/tombraider4.jpg);
+}
+
+.uncharted.game-info-img-1 {
+  background-image: url(/src/pages/assets/images/uncharted/uncharted1.jpg);
+}
+.uncharted.game-info-img-2 {
+  background-image: url(/src/pages/assets/images/uncharted/uncharted2.jpg);
+}
+.uncharted.game-info-img-3 {
+  background-image: url(/src/pages/assets/images/uncharted/uncharted3.jpg);
+}
+.uncharted.game-info-img-4 {
+  background-image: url(/src/pages/assets/images/uncharted/uncharted4.jpg);
+}
+
+.game-info-h1 {
+  position: relative;
+  top: 40vh;
+  left: 10vw;
+  color: #ffff;
+  font-size: 3em;
+}
+
+.game-info-header-btn {
+  position: relative;
+  top: 40vh;
+  left: 10vw;
+}
+
+.about-section-container {
+  display: flex;
+  justify-content: center;
+}
+
+.game-info-about-section {
+  padding: 1rem 0 0 1rem;
+  color: #ffff;
+  width: 50vw;
+}
+.game-info-container {
+  display: flex;
+  justify-content: center;
+}
+
+.game-info-details-section {
+  padding-left: 1rem;
+  padding-bottom: 1.5rem;
+  color: #ffff;
+  width: 50vw;
+}

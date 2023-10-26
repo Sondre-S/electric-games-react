@@ -1,0 +1,71 @@
+.home-page {
+  background-color: #141313;
+  box-sizing: border-box;
+  color: white;
+  padding: 0;
+  margin: 0;
+  scroll-snap-type: y mandatory;
+}
+.home-page-btn,
+.memory-game-btn {
+  text-align: center;
+  background-color: #dca307;
+  color: #161c1c;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  border: none;
+  margin: 0 auto;
+  padding: 10px 25px;
+}
+
+.header-font-face-ofe {
+  font-family: "Our Friend Electric", sans-serif;
+  font-size: 64px;
+}
+
+@import url("https://fonts.cdnfonts.com/css/our-friend-electric");
+
+.header-home-page {
+  background-image: url(/src/pages/assets/images/headerImages/thelastofus4.jpg);
+}
+.home-page-paragraph {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plagues-tale {
+  background-image: url(/src/pages/assets/images/aplaguetale/aplaguetalehero.jpg);
+}
+
+.tomb-raider {
+  background-image: url(/src/pages/assets/images/tombraider/tombraiderhero.jpg);
+}
+
+.the-last-of-us {
+  background-image: url(/src/pages/assets/images/thelastofus/thelastofus1.jpg);
+}
+
+.uncharted {
+  background-image: url(/src/pages/assets/images/uncharted/unchartedhero.jpg);
+}
+.game-info,
+.home-page-sections {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: start;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+}
+
+.game-info {
+  margin: 1rem;
+  border-radius: 15px;
+}
